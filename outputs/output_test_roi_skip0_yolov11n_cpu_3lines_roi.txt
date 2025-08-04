@@ -1,0 +1,21 @@
+ROI coordinates: (67, 237) to (1018, 459)
+Number of counting lines: 3
+Total unique vehicles that crossed lines: 8
+Total crossings: IN=8, OUT=13
+Average frame processing time: 130.94 ms
+Average effective time per video frame: 130.94 msNumber of frames skipped: 0
+
+Line 1:
+  Total: IN=2, OUT=5
+  Vehicles going IN: car #11, car #14
+  Vehicles going OUT: car #1, car #5, car #6, car #8, car #10
+
+Line 2:
+  Total: IN=3, OUT=4
+  Vehicles going IN: car #11, car #14, car #15
+  Vehicles going OUT: car #1, bus #5, car #6, car #10
+
+Line 3:
+  Total: IN=3, OUT=4
+  Vehicles going IN: car #11, car #14, car #15
+  Vehicles going OUT: car #1, car #5, car #6, car #10

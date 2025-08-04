@@ -1,0 +1,11 @@
+Number of counting lines: 1
+Total unique vehicles that crossed lines: 7
+Total crossings: IN=3, OUT=4
+Average frame processing time: 130.26 ms
+Number of frames skipped: 0
+Average effective time per video frame: 130.26 ms
+
+Line 1:
+  Total: IN=3, OUT=4
+  Vehicles going IN: car #1, car #6, car #12
+  Vehicles going OUT: car #7, car #10, truck #9, car #11

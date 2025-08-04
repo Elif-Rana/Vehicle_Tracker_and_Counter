@@ -1,0 +1,19 @@
+Number of counting lines: 3
+Total unique vehicles that crossed lines: 29
+Total crossings: IN=1, OUT=84
+Average frame processing time: 136.33 ms
+Number of frames skipped: 3
+Average effective time per video frame: 34.08 ms 
+
+Line 1:
+  Total: IN=1, OUT=27
+  Vehicles going IN: car #9
+  Vehicles going OUT: car #2, car #3, car #4, car #6, car #7, car #9, car #11, car #8, car #13, car #14, car #15, car #17, car #16, car #18, car #19, car #20, car #22, car #23, car #24, car #25, car #26, car #27, car #28, car #29, car #30, car #31, car #32
+
+Line 2:
+  Total: IN=0, OUT=29
+  Vehicles going OUT: car #1, car #2, car #3, car #4, car #6, car #7, car #9, car #11, car #8, car #13, car #14, truck #15, car #17, car #16, car #21, car #18, car #19, car #22, car #20, car #23, car #24, car #25, car #26, car #28, car #29, car #27, car #30, car #31, car #32
+
+Line 3:
+  Total: IN=0, OUT=28
+  Vehicles going OUT: car #1, car #3, car #2, car #4, car #6, car #7, car #9, car #11, car #8, car #13, car #14, truck #15, car #17, car #16, car #21, car #18, car #19, car #22, truck #20, car #23, car #24, car #25, car #26, car #28, car #29, car #30, car #31, truck #32
